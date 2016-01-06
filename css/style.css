@@ -13,3 +13,7 @@ body {
   width: 500px;
   float:left;
 }
+
+img {
+  padding: 10px
+}
