@@ -1,0 +1,14 @@
+.sidebar {
+  float: right;
+  background-color: black;
+  color: gray;
+  padding: 0px 20px;
+  width: 300px;
+}
+body {
+  background-color: #ffe5ff;
+}
+.content {
+  width: 500px;
+  float:left;
+}
