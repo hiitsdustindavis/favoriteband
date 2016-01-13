@@ -1,3 +1,27 @@
+#light {
+  background-color: pink;
+  border: solid 20px pink;
+  border-radius: 60px
+}
+
+.date1 {
+  border: solid 20px pink;
+  border-radius: 60px
+}
+.date2 {
+  border: solid 20px pink;
+  border-radius: 60px
+}
+.light-background {
+  background-color: #e1fbff;
+  color: #232a35;
+}
+
+.dark-background {
+  background-color: #232a35;
+  color: #e1fbff;
+}
+
 .sidebar {
   float: right;
   background-color: black;
@@ -6,9 +30,7 @@
   width: 300px;
   border: 20px solid magenta;
 }
-body {
-  background-color: #ffe5ff;
-}
+
 .content {
   width: 500px;
   float:left;
